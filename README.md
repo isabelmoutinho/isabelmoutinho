@@ -3,7 +3,7 @@
 <h2 align="center"> About Me </h2>
 
 * I'm 20 years old, living and born in Porto.
-* I'm currently studying computer science @ FEUP.
+* I'm currently studying computer science @[FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial).
 * So far I'm most interested in software engineering, database, web development and mobile app development.
 * I have a weird enthusiasm over Flutter(dart).
 
