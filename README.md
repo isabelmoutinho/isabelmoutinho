@@ -20,7 +20,7 @@
 | [ESOF] Engenharia de Software | [PoliTrack](https://github.com/FEUP-LEIC-ES-2022-23/2LEIC16T3) | Flutter, Dart, Firebase, Python | 19.50 |
 | [LCOM] Laboratório de Computadores | [AlienExpress](https://github.com/unrealxinfinity/AlienExpress) | C, Minix | N/A |
 | [LTW] Linguagens e Tecnologias Web | [NightSolve](https://github.com/FEUP-LTW-2023/project-ltw14g04) | PHP, JavaScript, Css | 16.40 |
-| [LDTS] Laboratório de Bases de Dados e Aplicações Web | MineMax | Laravel, Tailwind, PHP, JavaScript, PostgreSQL | TBA |
+| [LBAW] Laboratório de Bases de Dados e Aplicações Web | MineMax | Laravel, Tailwind, PHP, JavaScript, PostgreSQL | TBA |
 | [PFL] Programação Funcional e em Lógica | [Crosscut](https://github.com/Tiago27Cruz/Crosscut-PFL) | Prolog | TBA |
 | [PFL] Programação Funcional e em Lógica | TBA | Haskell | TBA |
 | [RCOM] Redes de Computadores | [Ligação de Dados](https://github.com/isabelmoutinho/RCOM_project1) | C | TBA |
