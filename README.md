@@ -4,7 +4,7 @@
 
 * I'm 20 years old, living and born in Porto.
 * I'm currently studying computer science @ FEUP.
-* So far I'm most interested in software enjeneering, database, web development and mobile app development.
+* So far I'm most interested in software engineering, database, web development and mobile app development.
 * I have a weird enthusiasm over Flutter(dart).
 
 <h2 align="center"> FEUP LEIC Projects </h2>
