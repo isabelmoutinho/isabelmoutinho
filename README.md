@@ -17,7 +17,7 @@
 | [LDTS] Laboratório de Desenho e Teste de Software | [Super Mario Bros (1985)](https://github.com/FEUP-LDTS-2022/project-l06gr05) | Java, Lanterna | 16.10 |
 | [DA] Desenho de Algoritmos | TrabalhoDA1 | C++ | 19.34 |
 | [DA] Desenho de Algoritmos | TrabalhoDA2 | C++ | 16.88 |
-| [ESOF] Engenharia de Software | [PoliTrack](https://github.com/FEUP-LEIC-ES-2022-23/2LEIC16T3) | Flutter, Dart, Firebase, Python | 19.50 |
+| [ESOF] Engenharia de Software | [PoliTrack](https://github.com/FEUP-LEIC-ES-2022-23/2LEIC16T3) | Flutter, Dart, Firebase, Gherkin, Mockito | 19.50 |
 | [LCOM] Laboratório de Computadores | [AlienExpress](https://github.com/unrealxinfinity/AlienExpress) | C, Minix | N/A |
 | [LTW] Linguagens e Tecnologias Web | [NightSolve](https://github.com/FEUP-LTW-2023/project-ltw14g04) | PHP, JavaScript, Css | 16.40 |
 | [LBAW] Laboratório de Bases de Dados e Aplicações Web | MineMax | Laravel, Tailwind, PHP, JavaScript, PostgreSQL | TBA |
