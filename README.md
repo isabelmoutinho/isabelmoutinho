@@ -18,7 +18,7 @@
 | [DA] Desenho de Algoritmos | TrabalhoDA1 | C++ | 19.34 |
 | [DA] Desenho de Algoritmos | TrabalhoDA2 | C++ | 16.88 |
 | [ESOF] Engenharia de Software | [PoliTrack](https://github.com/FEUP-LEIC-ES-2022-23/2LEIC16T3) | Flutter, Dart, Firebase, Gherkin, Mockito | 19.50 |
-| [LCOM] Laboratório de Computadores | [AlienExpress](https://github.com/unrealxinfinity/AlienExpress) | C, Minix | N/A |
+| [LCOM] Laboratório de Computadores | [AlienExpress](https://github.com/unrealxinfinity/AlienExpress) | C, Minix | 17.94 |
 | [LTW] Linguagens e Tecnologias Web | [NightSolve](https://github.com/FEUP-LTW-2023/project-ltw14g04) | PHP, JavaScript, Css | 16.40 |
 | [LBAW] Laboratório de Bases de Dados e Aplicações Web | MineMax | Laravel, Tailwind, PHP, JavaScript, PostgreSQL | 19 |
 | [PFL] Programação Funcional e em Lógica | [Crosscut](https://github.com/Tiago27Cruz/Crosscut-PFL) | Prolog | 19.16 |
