@@ -2,9 +2,10 @@
 
 <h2 align="center"> About Me </h2>
 
-* I'm 20 years old, living and born in Porto.
-* I'm currently studying computer science @[FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial).
-* So far I'm most interested in software engineering, database, web development and mobile app development.
+* I'm 22 years old, living and born in Porto.
+* I have a degree in Computer Engineering and am currently taking my masters in Software Engineering @[FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial).
+* I'm working as a software engineer in [ARMIS Group](https://www.armisgroup.com/pt)'s Data Team.
+* So far I'm most interested in software engineering processes, web and mobile app development, and data architecture.
 * Flutter enthusiast.
 
 <h2 align="center"> FEUP LEIC Projects </h2>
@@ -25,3 +26,7 @@
 | [PFL] Programação Funcional e em Lógica | [Compiler](https://github.com/Tiago27Cruz/PFL-Haskell) | Haskell | 19.07 |
 | [RCOM] Redes de Computadores | [Ligação de Dados](https://github.com/isabelmoutinho/RCOM_project1) | C | 17.6 |
 | [RCOM] Redes de Computadores | [Rede de Computadores](https://github.com/isabelmoutinho/RCOM_project2)| C | 17.7 |
+
+<h2 align="center"> FEUP MESW Projects </h2>
+
+<p align="center"> TBA </p>
