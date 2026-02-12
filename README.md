@@ -3,8 +3,8 @@
 <h2 align="center"> About Me </h2>
 
 * I'm 22 years old, living and born in Porto.
-* I have a degree in Computer Engineering and am currently taking my masters in Software Engineering @[FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial).
-* I'm working as a software engineer in [ARMIS Group](https://www.armisgroup.com/pt)'s Data Team.
+* I have a degree in Informatics Engineering and am currently taking my masters in Software Engineering @[FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial).
+* I have worked for 2 year as a software engineer at [ARMIS Group](https://www.armisgroup.com/pt)'s Data Team.
 * So far I'm most interested in software engineering processes, web and mobile app development, and data architecture.
 * Flutter enthusiast.
 
